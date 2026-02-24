@@ -13,39 +13,31 @@ I also do a development on **Yocto** during more than one year, in C.
 In fact I do several task :
 
  - **Project Manager** for alarm receiver.
-
    - Skill : Security, CMS, APSAD, Rules, Marketing.
 
  - **System Linux Software Engineer** for alarm receiver.
-
    - Skill : Dev C, Dev PHP, Linux.
 
  - **DevOps Linux Engineer** for alarm receiver
-
    - Skill : Jenkins, Python, ...
 
  - **DevSecOps Linux Engineer** for alarm receiver
 
  - **Support Engineer** for alarm receiver & other :
-
    - Skill : Customer contact, SaleForce, JIRA.
 
  - **SDK/Integration Engineer** for protocols
-
    - Skill : Dev C/C++/Java/Python , SDK, Dev support, NodeRED.
 
  - **Asterisk VOIP Engineer** :
-
    - Configuration/Build , AEL...
 
  - **Embedded Linux Software Engineer** for Panel
-
    - Yocto, Dev C, Dev C++, Linux.
 
  
 
 #### Dev under Linux ;
-
 
 - Langages : **C** (60%), PHP (10%), Python (20%), bash (10%).
    - But I know also : Java, Pascal, .Net, C++.
@@ -57,7 +49,6 @@ In fact I do several task :
 
 
 #### Ops for Linux :
-
 
 - Create/Deploy/install : VirtualBox , ESX, Proxmox , **Docker**, **Kubernetes**.
 - Install Configure :
@@ -71,7 +62,6 @@ In fact I do several task :
 ​     - Pipeline.
 
  
-
 #### Sec for Linux :
 
 
@@ -112,13 +102,10 @@ In fact I do several task :
 - Dev PHP / MySQL / OpenLDAP .
 
  
-
 ## Skills
 
 
 *IT* : Linux, more than job ...
-
-
 *Languages* : English , French (native)
 
 
@@ -132,7 +119,6 @@ In fact I do several task :
     - [Ubuntu]() ,
     - [Debian](),
     - [Raspberry](),
-- [NextCloud](https://www.cyber-neurones.org/tag/nextcloud/),
-- [Wordpress](https://www.cyber-neurones.org/), [Humhub](https://www.humhub.com/en/), [Home Assistant](https://www.home-assistant.io/), [Proxmox](https://www.proxmox.com/en/), [Python](), Tensorflow & OpenCV
-- [Competition ]().
-- [OpenDataGouv]()
+- [NextCloud](https://www.cyber-neurones.org/tag/nextcloud/), Proxmox
+- [Wordpress](https://www.cyber-neurones.org/), [Humhub](https://www.humhub.com/en/), [Home Assistant](https://www.home-assistant.io/), [Proxmox](https://www.proxmox.com/en/), [Python](), Tensorflow & OpenCV, Wanderer, Ollama, OpenWebUI, NodeBB, Forgejo, ...
+
