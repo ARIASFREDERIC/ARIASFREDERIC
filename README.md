@@ -2,6 +2,8 @@
 
 See my profile on linkedin : [https://www.linkedin.com/in/ariasfrederic/](https://www.linkedin.com/in/ariasfrederic/)
 
+I'm not in Twitter/X , Instagram, Facebook, Bluesky . Only on Fediverse tools ( Mastodon / NodeBB / Wanderer / PixelFed ). 
+
 ### *Since Jan 2001* [Secom - Honeywell - Resideo : DevSecOps Linux for security]
 
 I develop an alarm receiver for security ( Name : PE1800IP or PE1800XS or PE1800IP-S ). This server it's gateway between external Panel, or provider SMS, or provider VOIP, ... and internal software ( CMS ) who manage the customer. So lot of evolution during 22 years, evolution with télécom : PRI to VOIP, API for SMS providers, also protocol for alarm and encryption. The software works under Oracle Linux , Debian , Ubuntu .
