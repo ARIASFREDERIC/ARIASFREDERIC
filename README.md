@@ -36,7 +36,6 @@ In fact I do several task :
    - Yocto, Dev C, Dev C++, Linux.
 
  
-
 #### Dev under Linux ;
 
 - Langages : **C** (60%), PHP (10%), Python (20%), bash (10%).
@@ -70,55 +69,19 @@ In fact I do several task :
 
 #### Telecom :
 
- 
-
 - Manage PRI : Primary Rate Interface.
 
 - [Asterisk](https://www.asterisk.org/) :
-
-   - Build under Ubuntu or Redhat.
-
+   - Build under Ubuntu or Redhat or Oracle Linux.
    - Configuration SIP & PJSIP.
-
    - [Script AEL](https://www.voip-info.org/asterisk-ael/).
-
    - Configuration trunk SIP.
-
    - Configuration account.
-
- 
-
-### *Jan 2021 -- May 2021*
-
-[RIGHTVISION]()
-
-- Dev PHP / MySQL.
-
-
-### *April 2020 -- Jan 2021*
-
-[CYBERWORKERS]()
-
-- Dev PHP / MySQL / OpenLDAP .
-
- 
-## Skills
-
-
-*IT* : Linux, more than job ...
-*Languages* : English , French (native)
-
 
 ## Hobbies
 
-
-- [Trail](https://www.cyber-neurones.org/category/loisirs/courses/trail/) , 
-- [Gravel Bike](https://www.cyber-neurones.org/tag/gravel/) ,
-- [Trekking](https://www.cyber-neurones.org/category/loisirs/randonnee/) ,
-- DevSecOps under Linux :
-    - [Ubuntu]() ,
-    - [Debian](),
-    - [Raspberry](),
+- Sport : [Trail](https://www.cyber-neurones.org/category/loisirs/courses/trail/) ,  [Gravel Bike](https://www.cyber-neurones.org/tag/gravel/) ,  [Trekking](https://www.cyber-neurones.org/category/loisirs/randonnee/) ,
+- DevSecOps under Linux : Ubuntu , Debian, Raspberry, Kali. 
 - [NextCloud](https://www.cyber-neurones.org/tag/nextcloud/), Proxmox
-- [Wordpress](https://www.cyber-neurones.org/), [Humhub](https://www.humhub.com/en/), [Home Assistant](https://www.home-assistant.io/), [Proxmox](https://www.proxmox.com/en/), [Python](), Tensorflow & OpenCV, Wanderer, Ollama, OpenWebUI, NodeBB, Forgejo, ...
+- [Wordpress](https://www.cyber-neurones.org/), [Humhub](https://www.humhub.com/en/), [Home Assistant](https://www.home-assistant.io/), [Proxmox](https://www.proxmox.com/en/), Python, Tensorflow & OpenCV, Wanderer, Ollama, OpenWebUI, NodeBB, Forgejo, ...
 
