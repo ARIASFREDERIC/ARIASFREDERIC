@@ -8,8 +8,6 @@ I'm not in Twitter/X , Instagram, Facebook, Bluesky . Only on Fediverse tools ( 
 
 I develop an alarm receiver for security ( Name : PE1800IP or PE1800XS or PE1800IP-S ). This server it's gateway between external Panel, or provider SMS, or provider VOIP, ... and internal software ( CMS ) who manage the customer. So lot of evolution during 22 years, evolution with télécom : PRI to VOIP, API for SMS providers, also protocol for alarm and encryption. The software works under Oracle Linux , Debian , Ubuntu .
 
-I also do a development on **Yocto** during more than one year, in C.
-
 In fact I do several task :
 
  - **Project Manager** for alarm receiver.
@@ -17,6 +15,7 @@ In fact I do several task :
 
  - **System Linux Software Engineer** for alarm receiver.
    - Skill : Dev C, Dev PHP, Linux.
+   - Dev Exporter for Prometheus.
 
  - **DevOps Linux Engineer** for alarm receiver
    - Skill : Jenkins, Python, ...
@@ -51,13 +50,10 @@ In fact I do several task :
 
 - Create/Deploy/install : VirtualBox , ESX, Proxmox , **Docker**, **Kubernetes**.
 - Install Configure :
-   - Apache, Httpd, Nginx, Sendmail, Postfix, PostgreSQL, RabbitMQ,
-   - **Grafana**, Prometheus
-​     - Dev Exporter for Prometheus.
+   - Apache, Httpd, Nginx, Sendmail, Postfix, PostgreSQL, RabbitMQ, Fail2Ban, **Grafana**, Prometheus, Redis.
 
 - Install & configure :
    - **Jenkins**
-
 ​     - Pipeline.
 
  
@@ -78,10 +74,4 @@ In fact I do several task :
    - Configuration trunk SIP.
    - Configuration account.
 
-## Hobbies
-
-- Sport : [Trail](https://www.cyber-neurones.org/category/loisirs/courses/trail/) ,  [Gravel Bike](https://www.cyber-neurones.org/tag/gravel/) ,  [Trekking](https://www.cyber-neurones.org/category/loisirs/randonnee/) ,
-- DevSecOps under Linux : Ubuntu , Debian, Raspberry, Kali. 
-- [NextCloud](https://www.cyber-neurones.org/tag/nextcloud/), Proxmox
-- [Wordpress](https://www.cyber-neurones.org/), [Humhub](https://www.humhub.com/en/), [Home Assistant](https://www.home-assistant.io/), [Proxmox](https://www.proxmox.com/en/), Python, Tensorflow & OpenCV, Wanderer, Ollama, OpenWebUI, NodeBB, Forgejo, ...
 
